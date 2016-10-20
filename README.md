@@ -26,4 +26,4 @@ For the initial prototype of the game, I had the first level finished. For the f
 ![](https://jihooncs108.files.wordpress.com/2014/05/1.jpg)
 ![](https://jihooncs108.files.wordpress.com/2014/05/2.jpg)
 
-<img src="https://jihooncs108.files.wordpress.com/2014/05/1.jpg" width="48">
+<img src="https://jihooncs108.files.wordpress.com/2014/05/1.jpg" width="400">
