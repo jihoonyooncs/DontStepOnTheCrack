@@ -5,6 +5,7 @@ Don't step on the crack was a game that I made for my CS 108 Game Studies class 
 
 -Don't step on the crack blog-
 I started making the first draft of the game in GameMaker. So far it's just a guy walking on a sidewalk.  David provided the art and I implemented the programming. The challenging part was getting the character to stay within the bounds of the sidewalk. It seemed like a simple pixel boundary implementation but I had to figure out a way to let the character go past that boundary when jumping.
+
 <img src="https://jihooncs108.files.wordpress.com/2014/03/untitled-11.jpg" width="500">
 
 Next I added the background of the trees and houses, which would pass by more slowly than the sidewalk creating a paralax effect. Adding the cracks was next, and I made them randomly generated from off the screen so the game would be more challenging. A challenge here was that for some reason it wasn't really random. It was showing the same pattern every time. I fixed this by adding code that would simulate true randomness on every run. I also implemented a random background, where different color houses and trees would show up and pass by in the background. Next were the health bar, which goes down by a certain amount on hitting the cracks, and the distance meter, which goes up at a constant rate.
