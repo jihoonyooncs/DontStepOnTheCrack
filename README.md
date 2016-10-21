@@ -1,7 +1,12 @@
 # DontStepOnTheCrack
 
-Don't step on the crack was a game that I made for my CS 108 Game Studies class that I took during college in the semester of Spring 2014. It was made in GameMaker, which required me to code the features of the character/boss/etc but could handle some of the simpler stuff with a UI. I worked with my partner David, who provided the art. The basic premise of the game is to jump over and move around cracks on the sidewalk until you get to the boss, where you can punch, kick, and combo for special moves in order to defeat him. There are 3 levels and the game gets faster and the bosses get harder at each stage. Beat the final boss and you beat the game. Unfortunately as it has been a while since I made it I do not have the code/program files anymore. Here are the blog posts from that semester where I described the process of making the game:
+Don't step on the crack was a game that I made for my CS 108 Game Studies class that I took during college in the semester of Spring 2014. It was made in GameMaker, which required me to code the features of the character/boss/etc but could handle some of the simpler stuff with a UI. I worked with my partner David, who provided the art. The basic premise of the game is to jump over and move around cracks on the sidewalk until you get to the boss, where you can punch, kick, and combo for special moves in order to defeat him. There are 3 levels and the game gets faster and the bosses get harder at each stage. Beat the final boss and you beat the game. Unfortunately as it has been a while since I made it I do not have the code/program files anymore. 
 
+##How to Run the Game
+Simply download the exe file and run it on your computer.
+
+##Blog
+Here are the blog posts from the semester when I made the game. I describe the process as well as the features.
 
 -Don't step on the crack blog-
 I started making the first draft of the game in GameMaker. So far it's just a guy walking on a sidewalk.  David provided the art and I implemented the programming. The challenging part was getting the character to stay within the bounds of the sidewalk. It seemed like a simple pixel boundary implementation but I had to figure out a way to let the character go past that boundary when jumping.
